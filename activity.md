@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /hobbies/index.html
-title: Hobbies
+title: Activity
 ---
 
-# Hobbies
+# Activity
 
 ## Teaching & Workshops
 

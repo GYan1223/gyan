@@ -6,7 +6,7 @@ url: https://gyan23.com
 
 # Owner/author information
 owner:
-  name: Gang Yan000
+  name: Gang Yan
   avatar: profile.jpg
 #  bio:
   email: gyan2@binghamton.edu
@@ -40,10 +40,10 @@ links:
     url: /projects/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  - title: Activity
+    url: /activity/
+  - title: Group
+    url: /group/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

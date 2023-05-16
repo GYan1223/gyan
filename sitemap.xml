@@ -7,16 +7,16 @@ layout: nil
       <loc>https://gyan23.com/</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/publications/</loc>
+      <loc>https://gyan23.com/publications/</loc>
     </url>    
     <url>
-      <loc>https://caihanlin.com/group/</loc>
+      <loc>https://gyan23.com/group/</loc>
     </url>
     <url>
-      <loc>https://caihanlin.com/awards/</loc>
+      <loc>https://gyan23.com/awards/</loc>
     </url>   
     <url>
-      <loc>https://caihanlin.com/activity/</loc>
+      <loc>https://gyan23.com/activity/</loc>
     </url>
 
     {% comment %}

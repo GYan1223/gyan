@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /blogs/index.html
-title: Blogs
+title: Group
 ---
 
-## My Blogs
+## Co-authors
 
 ### 2023
 

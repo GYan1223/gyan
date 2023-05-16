@@ -4,22 +4,19 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>https://caihanlin.com/</loc>
+      <loc>https://gyan23.com/</loc>
     </url>
     <url>
       <loc>https://caihanlin.com/publications/</loc>
     </url>    
     <url>
-      <loc>https://caihanlin.com/projects/</loc>
+      <loc>https://caihanlin.com/group/</loc>
     </url>
     <url>
       <loc>https://caihanlin.com/awards/</loc>
     </url>   
     <url>
-      <loc>https://caihanlin.com/hobbies/</loc>
-    </url>
-    <url>
-      <loc>https://caihanlin.com/blogs/</loc>
+      <loc>https://caihanlin.com/activity/</loc>
     </url>
 
     {% comment %}

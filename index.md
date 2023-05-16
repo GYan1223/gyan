@@ -4,10 +4,9 @@ layout: page
 
 # About Me
 
+This is **Gang Yan (燕刚)**.
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
-
-I am a junior majoring in **Automation** at Fuzhou University (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am currently pursuing my Ph.D. in the **Department of Electrical and Computer Engineering** at [SUNY-Binghamton University (USA)](https://www.binghamton.edu/). Prior to this, I earned my Bachelor's degree in **Statistics** in 2016 and Master's degree in **Statistics** in 2019 from [Nankai University (China)](https://www.nankai.edu.cn). Throughout my academic journey, it has been an honor to be advised by [Prof. Changliang Zou](https://scholar.google.com/citations?user=LPwSdmwAAAAJ&hl=en&oi=ao) and [Prof. Jian Li](https://sites.google.com/binghamton.edu/jianli). Their guidance and expertise have been instrumental in shaping my research and academic pursuits.
 
 ## Research Interests
 

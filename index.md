@@ -15,5 +15,6 @@ High-Performance Network Optimization, Cloud and Edge Computing, Distributed Mac
 ## News and Updates
 
 - **<font color='red'>[News]</font> I am looking for a full-time job (from Dec. 2023)**
-- **June 2023：**Congratulations! I am excited to announce that I have been offered an internship opportunity at AT&T Lab
+- **06/05/2023：** Have been offered an internship opportunity at AT&T Lab.
+- **05/16/2023:** One paper accepted to ACM KDD 2023 (acceptance rate: 22.1%). 
 

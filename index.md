@@ -20,4 +20,3 @@ High-Performance Network Optimization, Cloud and Edge Computing, Distributed Mac
 - **12/2022:[Paper]** Our paper "Reinforcement Learning for Dynamic Dimensioning of Cloud Caches: A Restless Bandit Approach" accepted to IEEE/ACM Transactions on Networking.
 - **12/2022:[Reward]** Received the Student Scholar Award from AAAI 2023. 
 - **11/2022:[Paper]** Our paper "DeFL: Defending Against Model Poisoning Attacks in Federated Learning via Critical Learning Periods Awareness" accepted to AAAI 2023 (acceptance rate: 19.6%). 
-- 

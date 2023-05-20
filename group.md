@@ -8,11 +8,6 @@ title: Group
 
 <div class="third">
 <img src="/images/favicon.png">
-  dfsagfdg sfadsfgs safadsfs gdf ghsdfghdfgsh
-  
-  dgsfdhgfdhdfg
-  
-   dsgfasdgfdg
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech]
+<br>
 

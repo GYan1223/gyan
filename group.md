@@ -5,3 +5,9 @@ title: Group
 ---
 
 ## Co-authors
+
+<div class="third">
+<img src="/images/favicon.png">
+</div>
+<br>There must be **something truly magical** about standing on stage to give [a fantastic speech]
+

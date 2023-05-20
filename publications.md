@@ -6,18 +6,25 @@ title: Publications
 
 # Publications
 
-Lastest Update: 9th May 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/publications-zh/)
-
 ## Conference Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+- [KDD’23] **Gang Yan**, Hao Wang, Xu Yuan, Jian Li, "CriticalFL: A Critical Learning Periods Augmented Client Selection Framework for Efficient Federated Learning". Proceedings of the Twenty-Nineth ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Long Beach, CA, August 2023. 
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
+- [AAAI’23] **Gang Yan**, H. Wang, X. Yuan and J. Li, "DeFL: Defending Against Model Poisoning Attacks in Federated Learning via Critical Learning Periods Awareness". Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, February 2023.
 
-## Competition Paper
+- [USENIX ATC’22] **Gang Yan** and J. Li, "Towards Latency Awareness for Content Delivery Network Caching". Proceedings of USENIX Annual Technical Conference (USENIX ATC), Carlsbad, CA, July 2022.
 
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>**Finalist Award** (Top 1% of all 20858 paper)
+- [IEEE INFOCOM’22] G. Xiong, S. Wang, **Gang Yan** and J. Li, "Reinforcement Learning for Dynamic Dimensioning of Cloud Caches: A Restless Bandit Approach". Proceedings of IEEE International Conference on Computer Communications (IEEE INFOCOM), Virtual Conference, May 2022.
 
-## Working Paper
+- [AAAI’22] **Gang Yan**, H. Wang and J. Li, "Seizing Critical Learning Periods in Federated Learning". Proceedings of Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), Vancouver, Canada, February 2022.
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
+- [ACM CoNEXT’21] Gang Yan, J. Li and D. Towsley, "Learning from Optimal Caching for Content Delivery". Proceedings of ACM International Conference on emerging Networking EXperiments and Technologies (ACM CoNEXT), Munich, Germany, December 2021.
+
+- [ACM Multimedia’20] Gang Yan, J. Li, "RL-Bélády: A unified learning framework for content caching." Proceedings of the 28th ACM International Conference on Multimedia (ACM Multimedia), Seattle, WA, October 2020.
+
+- Just for test
+
+
+## Journal Paper
+
+- Hello

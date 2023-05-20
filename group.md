@@ -7,7 +7,7 @@ title: Group
 ## Co-authors
 
 <div class="third">
-<img src="/images/Don-Towsley.">
+<img src="/images/Don-Towsley.jpeg">
   Hao Wang
   
   

@@ -18,9 +18,9 @@ title: Publications
 
 - [AAAI’22] **Gang Yan**, H. Wang and J. Li, "Seizing Critical Learning Periods in Federated Learning". Proceedings of Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), Vancouver, Canada, February 2022.
 
-- [ACM CoNEXT’21] Gang Yan, J. Li and D. Towsley, "Learning from Optimal Caching for Content Delivery". Proceedings of ACM International Conference on emerging Networking EXperiments and Technologies (ACM CoNEXT), Munich, Germany, December 2021.
+- [ACM CoNEXT’21] **Gang Yan**, J. Li and D. Towsley, "Learning from Optimal Caching for Content Delivery". Proceedings of ACM International Conference on emerging Networking EXperiments and Technologies (ACM CoNEXT), Munich, Germany, December 2021.
 
-- [ACM Multimedia’20] Gang Yan, J. Li, "RL-Bélády: A unified learning framework for content caching." Proceedings of the 28th ACM International Conference on Multimedia (ACM Multimedia), Seattle, WA, October 2020.
+- [ACM Multimedia’20] **Gang Yan**, J. Li, "RL-Bélády: A unified learning framework for content caching." Proceedings of the 28th ACM International Conference on Multimedia (ACM Multimedia), Seattle, WA, October 2020.
 
 - Just for test
 

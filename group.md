@@ -7,7 +7,10 @@ title: Group
 ## Co-authors
 
 <div class="third">
-<img src="/images/favicon.png">
+<img src="/images/hao-wang.jpeg">
+  Hao Wang
+  
+  
 </div>
 <br>
 

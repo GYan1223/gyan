@@ -22,9 +22,7 @@ title: Publications
 
 - **[ACM Multimedia’20] Gang Yan**, J. Li, "RL-Bélády: A unified learning framework for content caching." Proceedings of the 28th ACM International Conference on Multimedia (ACM Multimedia), Seattle, WA, October 2020.
 
-- Just for test
-
 
 ## Journal Paper
 
-- Hello
+- **[IEEE/ACM Transactions on Networking]** G. Xiong, S. Wang, **Gang Yan** and J. Li, "Reinforcement Learning for Dynamic Dimensioning of Cloud Caches: A Restless Bandit Approach". Journal of IEEE/ACM Transactions on Networking, 2023. 

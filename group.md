@@ -6,11 +6,7 @@ title: Group
 
 ## Co-authors
 
-<div class="third">
-<img src="/images/hao-wang.jpeg">
-  Hao Wang
-  
-  
-</div>
-<br>
+- Hao Wang. Assistant Professor in the CSE Division of Louisiana State University. Research Interest: Distributed Computing, Distributed Machine Learning, Large-scale Data Analytics, Data Center Networking
+
+- 
 

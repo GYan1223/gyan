@@ -29,4 +29,6 @@ title: Publications
 
 ## Other Paper
 
-- **[arXiv] Gang Yan**, G. Xiong, R. Singh and J. Li, "Straggler-resilient distributed machine learning with dynamic backup workers", February 2021. 
+- **[arXiv]** Gang Yan*, G. Xiong*, R. Singh and J. Li, "Straggler-resilient distributed machine learning with dynamic backup workers", February 2021. 
+
+- **[arXiv]** Gang Yan*, G. Xiong*, S. Wang and J. Li, "Straggler-Resilient Decentralized Learning via Adaptive Asynchronous Updates", June 2023.

@@ -8,7 +8,7 @@ title: Publications
 
 ## Conference Paper
 
-- **[ACM KDD’23] Gang Yan**, Hao Wang, Xu Yuan, Jian Li, "CriticalFL: A Critical Learning Periods Augmented Client Selection Framework for Efficient Federated Learning". Proceedings of the Twenty-Nineth ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Long Beach, CA, August 2023. 
+- **[ACM SIGKDD’23] Gang Yan**, Hao Wang, Xu Yuan, Jian Li, "CriticalFL: A Critical Learning Periods Augmented Client Selection Framework for Efficient Federated Learning". Proceedings of the Twenty-Nineth ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Long Beach, CA, August 2023. 
 
 - **[AAAI’23] Gang Yan**, H. Wang, X. Yuan and J. Li, "DeFL: Defending Against Model Poisoning Attacks in Federated Learning via Critical Learning Periods Awareness". Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, February 2023.
 

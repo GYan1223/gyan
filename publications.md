@@ -27,8 +27,6 @@ title: Publications
 
 - **[IEEE/ACM Transactions on Networking]** G. Xiong, S. Wang, **Gang Yan** and J. Li, "Reinforcement Learning for Dynamic Dimensioning of Cloud Caches: A Restless Bandit Approach". Journal of IEEE/ACM Transactions on Networking, 2023. 
 
-## Other Paper
-
-- **[arXiv] Gang Yan\***, G. Xiong*, R. Singh and J. Li, "Straggler-resilient distributed machine learning with dynamic backup workers", February 2021. 
+## Other Paper 
 
 - **[arXiv] Gang Yan\***, G. Xiong*, S. Wang and J. Li, "Straggler-Resilient Decentralized Learning via Adaptive Asynchronous Updates", June 2023.

@@ -15,8 +15,9 @@ High-Performance Network Optimization, Cloud and Edge Computing, Distributed Mac
 ## News and Updates
 
 - **<font color='red'>[News]</font> I am looking for a full-time job (start from December 2023)**
-- **06/2023:[Internship]** Have been offered an internship opportunity at AT&T Lab.
-- **05/2023:[Paper]** Our paper "CriticalFL: A Critical Learning Periods Augmented Client Selection Framework for Efficient Federated Learning" accepted to ACM KDD 2023 (acceptance rate: 22.1%).
-- **12/2022:[Paper]** Our paper "Reinforcement Learning for Dynamic Dimensioning of Cloud Caches: A Restless Bandit Approach" accepted to IEEE/ACM Transactions on Networking.
-- **12/2022:[Award]** Received the Student Scholar Award from AAAI 2023. 
-- **11/2022:[Paper]** Our paper "DeFL: Defending Against Model Poisoning Attacks in Federated Learning via Critical Learning Periods Awareness" accepted to AAAI 2023 (acceptance rate: 19.6%). 
+- **07/2023:[Servicr]** I will serve as a Program Committee member (PC) for **AAAI 2024**.
+- **06/2023:[Internship]** Have been offered an internship opportunity at **AT&T Lab**.
+- **05/2023:[Paper]** Our paper "CriticalFL: A Critical Learning Periods Augmented Client Selection Framework for Efficient Federated Learning" accepted to **ACM SIGKDD 2023** (acceptance rate: 22.1%).
+- **12/2022:[Paper]** Our paper "Reinforcement Learning for Dynamic Dimensioning of Cloud Caches: A Restless Bandit Approach" accepted to **IEEE/ACM Transactions on Networking**.
+- **12/2022:[Award]** Received the Student Scholar Award from **AAAI 2023**. 
+- **11/2022:[Paper]** Our paper "DeFL: Defending Against Model Poisoning Attacks in Federated Learning via Critical Learning Periods Awareness" accepted to **AAAI 2023** (acceptance rate: 19.6%). 

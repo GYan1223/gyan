@@ -6,6 +6,14 @@ title: Activity
 
 # Activity
 
+## Conference
+
+**July 2023:** Serve as Program Committee member (PC) for AAAI 2024.
+
+**July 2022:** Serve as Program Committee member (PC) for AAAI 2023.
+
+**Sep 2021:** Serve as Program Committee member (PC) for AAAI 2022.
+
 ## Teaching & Workshops
 
 

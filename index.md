@@ -6,7 +6,7 @@ layout: page
 
 This is **Gang Yan (燕刚)**.
 
-I am currently pursuing my Ph.D. in the **Department of Electrical and Computer Engineering** at [SUNY-Binghamton University (USA)](https://www.binghamton.edu/). Prior to this, I earned my Bachelor's degree in **Statistics** in 2016 and Master's degree in **Statistics** in 2019 from [Nankai University (China)](https://www.nankai.edu.cn). Throughout my academic journey, it has been an honor to be advised by [Prof. Changliang Zou](http://web.stat.nankai.edu.cn/chlzou/) and [Prof. Jian Li](https://sites.google.com/stonybrook.edu/jianli). Their guidance and expertise have been instrumental in shaping my research and academic pursuits.
+I am currently pursuing my Ph.D. in the **Department of Electrical and Computer Engineering** at [SUNY-Binghamton University (USA)](https://www.binghamton.edu/). Prior to this, I earned my Bachelor's degree in **Statistics** in 2016 and Master's degree in **Statistics** in 2019 from [Nankai University (China)](https://www.nankai.edu.cn). Throughout my academic journey, it has been an honor to be advised by [Prof. Changliang Zou](https://my.nankai.edu.cn/stat/zzl/list.htm) and [Prof. Jian Li](https://sites.google.com/stonybrook.edu/jianli). Their guidance and expertise have been instrumental in shaping my research and academic pursuits.
 
 ## Research Interests
 

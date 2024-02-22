@@ -6,13 +6,14 @@ layout: page
 
 This is **Gang Yan (燕刚)**.
 
-I am currently pursuing my Ph.D. in the **Department of Electrical and Computer Engineering** at [SUNY-Binghamton University (USA)](https://www.binghamton.edu/). Prior to this, I earned my Bachelor's degree in **Statistics** in 2016 and Master's degree in **Statistics** in 2019 from [Nankai University (China)](https://www.nankai.edu.cn). Throughout my academic journey, it has been an honor to be advised by [Prof. Changliang Zou](https://my.nankai.edu.cn/stat/zzl/list.htm) and [Prof. Jian Li](https://sites.google.com/stonybrook.edu/jianli). Their guidance and expertise have been instrumental in shaping my research and academic pursuits.
+I am presently serving as a postdoc scholar in the Department of Computer Science & Engineering at [UC Merced](https://www.ucmerced.edu/). Before this role, I obtained my Ph.D. in Electrical and Computer Engineering from [SUNY Binghamton University (USA)](https://www.binghamton.edu/) in 2023. Additionally, I completed my Bachelor's and Master's degrees in Statistics in 2016 and 2019, respectively, at [Nankai University (China)](https://www.nankai.edu.cn). Throughout my academic journey, it has been an honor to be advised by [Prof. Changliang Zou](https://my.nankai.edu.cn/stat/zzl/list.htm), [Prof. Jian Li](https://sites.google.com/stonybrook.edu/jianli) and [Prof. Wan Du](https://www.ucmerced.edu/content/wan-du). Their guidance and expertise have been instrumental in shaping my research and academic pursuits.
 
 ## Research Interests
 
 High-Performance Network Optimization, Cloud and Edge Computing, Distributed Machine Learning and Federated Learning, Attack and Defense in Distributed Systems. Skill at C++, Python, R, Java, AWS, ATS and SQL.
 
 ## News and Updates
+- **02/2024:[Service]** I will serve as a Program Committee member (PC) for **ACM KDD 2024**.
 - **12/2023:[Paper]** Our paper "DePRL: Achieving Linear Convergence Speedup in Personalized Decentralized Learning with Shared Representations" accepted to **AAAI 2024** (acceptance rate: 23.75%). 
 - **07/2023:[Service]** I will serve as a Program Committee member (PC) for **AAAI 2024**.
 - **06/2023:[Internship]** Have been offered an internship opportunity at **AT&T Labs**.

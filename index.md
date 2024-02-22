@@ -6,7 +6,7 @@ layout: page
 
 This is **Gang Yan (燕刚)**.
 
-I am presently serving as a postdoc scholar in the **Department of Computer Science & Engineering** at [UC Merced (USA)](https://www.ucmerced.edu/). Before this role, I obtained my Ph.D. in **Electrical & Computer Engineering** from [SUNY-Binghamton University (USA)](https://www.binghamton.edu/) in 2023. Additionally, I completed my Bachelor's and Master's degrees in **Statistics** in 2016 and 2019, respectively, at [Nankai University (China)](https://www.nankai.edu.cn). Throughout my academic journey, it has been an honor to be advised by [Prof. Changliang Zou](https://my.nankai.edu.cn/stat/zzl/list.htm), [Prof. Jian Li](https://sites.google.com/stonybrook.edu/jianli) and [Prof. Wan Du](https://www.ucmerced.edu/content/wan-du). Their guidance and expertise have been instrumental in shaping my research and academic pursuits.
+I am presently serving as a postdoc scholar in the **Department of Computer Science & Engineering** at [UC Merced (USA)](https://www.ucmerced.edu/). Before this role, I obtained my PhD in **Electrical & Computer Engineering** from [SUNY-Binghamton University (USA)](https://www.binghamton.edu/) in 2023. Additionally, I completed my Bachelor's and Master's degrees in **Statistics** in 2016 and 2019, respectively, at [Nankai University (China)](https://www.nankai.edu.cn). Throughout my academic journey, it has been an honor to be advised by [Prof. Changliang Zou](https://my.nankai.edu.cn/stat/zzl/list.htm), [Prof. Jian Li](https://sites.google.com/stonybrook.edu/jianli) and [Prof. Wan Du](https://www.ucmerced.edu/content/wan-du). Their guidance and expertise have been instrumental in shaping my research and academic pursuits.
 
 ## Research Interests
 

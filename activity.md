@@ -8,6 +8,7 @@ title: Activity
 
 ## Conference
 
+- **February 2024:** Serve as ERC Program Committee member for USENIX ATC 2024.
 - **February 2024:** Serve as Program Committee member (PC) for ACM KDD 2024.
 - **July 2023:** Serve as Program Committee member (PC) for AAAI 2024.
 - **July 2022:** Serve as Program Committee member (PC) for AAAI 2023.

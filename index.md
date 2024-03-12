@@ -13,6 +13,7 @@ I am presently serving as a postdoc scholar in the **Department of Computer Scie
 High-Performance Network Optimization, Cloud and Edge Computing, Distributed Machine Learning and Federated Learning, Attack and Defense in Distributed Systems. Skill at C++, Python, R, Java, AWS, ATS and SQL.
 
 ## News and Updates
+- **03/2024:[Service]** I will server as a Reviewer for **IEEE Transactions on Information Forensics & Security**.
 - **02/2024:[Service]** I will serve as a ERC Program Committee member for **USENIX ATC 2024**.
 - **02/2024:[Service]** I will serve as a Program Committee member (PC) for **ACM KDD 2024**.
 - **12/2023:[Paper]** Our paper "DePRL: Achieving Linear Convergence Speedup in Personalized Decentralized Learning with Shared Representations" accepted to **AAAI 2024** (acceptance rate: 23.75%). 

@@ -13,6 +13,7 @@ I am presently serving as a postdoc scholar in the **Department of Computer Scie
 High-Performance Network Optimization, Cloud and Edge Computing, Distributed Machine Learning and Federated Learning, Attack and Defense in Distributed Systems. Skill at C++, Python, R, Java, AWS, ATS and SQL.
 
 ## News and Updates
+- **03/2024:[Service]** I will server as a Reviewer for **IEEE Transactions on Knowledge and Data Engineering**.
 - **03/2024:[Service]** I will server as a Reviewer for **IEEE Transactions on Information Forensics & Security**.
 - **02/2024:[Service]** I will serve as a ERC Program Committee member for **USENIX ATC 2024**.
 - **02/2024:[Service]** I will serve as a Program Committee member (PC) for **ACM KDD 2024**.
@@ -20,6 +21,3 @@ High-Performance Network Optimization, Cloud and Edge Computing, Distributed Mac
 - **07/2023:[Service]** I will serve as a Program Committee member (PC) for **AAAI 2024**.
 - **06/2023:[Internship]** Have been offered an internship opportunity at **AT&T Labs**.
 - **05/2023:[Paper]** Our paper "CriticalFL: A Critical Learning Periods Augmented Client Selection Framework for Efficient Federated Learning" accepted to **ACM SIGKDD 2023** (acceptance rate: 22.1%).
-- **12/2022:[Paper]** Our paper "Reinforcement Learning for Dynamic Dimensioning of Cloud Caches: A Restless Bandit Approach" accepted to **IEEE/ACM Transactions on Networking**.
-- **12/2022:[Award]** Received the Student Scholar Award from **AAAI 2023**. 
-- **11/2022:[Paper]** Our paper "DeFL: Defending Against Model Poisoning Attacks in Federated Learning via Critical Learning Periods Awareness" accepted to **AAAI 2023** (acceptance rate: 19.6%). 

@@ -21,4 +21,3 @@ High-Performance Network Optimization, Cloud and Edge Computing, Distributed Mac
 - **12/2023:[Paper]** Our paper "DePRL: Achieving Linear Convergence Speedup in Personalized Decentralized Learning with Shared Representations" accepted to **AAAI 2024** (acceptance rate: 23.75%). 
 - **07/2023:[Service]** I will serve as a Program Committee member (PC) for **AAAI 2024**.
 - **06/2023:[Internship]** Have been offered an internship opportunity at **AT&T Labs**.
-- **05/2023:[Paper]** Our paper "CriticalFL: A Critical Learning Periods Augmented Client Selection Framework for Efficient Federated Learning" accepted to **ACM SIGKDD 2023** (acceptance rate: 22.1%).

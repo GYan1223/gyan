@@ -8,7 +8,7 @@ title: Publications
 
 ## Conference Paper
 
-- **[ACM SIGKDD’23] Gang Yan**, Hao Wang, Xu Yuan, Jian Li, "FedRoLA: Robust Federated Learning Against Model Poisoning via Layer-based Aggregation". Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Barcelona, Spain, August, 2024.
+- **[ACM SIGKDD’24] Gang Yan**, Hao Wang, Xu Yuan, Jian Li, "FedRoLA: Robust Federated Learning Against Model Poisoning via Layer-based Aggregation". Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Barcelona, Spain, August, 2024.
 
 - **[AAAI’24]** G. Xiong, **Gang Yan**, S. Wang and J. Li, "DePRL: Achieving Linear Convergence Speedup in Personalized Decentralized Learning with Shared Representations". Proceedings of Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), Vancouver, Canada, February 2024. 
 

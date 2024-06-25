@@ -8,7 +8,7 @@ title: Publications
 
 ## Conference Paper
 
-- **[ACM RAID’24] Gang Yan**, Hao Wang, Xu Yuan, Jian Li, "Enhancing Model Poisoning Attacks to Byzantine-Robust Federated Learning via Critical Learning Periods". International Symposium on Research in Attacks, Intrusions and Defenses, Padua, Italy, September, 2024.
+- **[ACM RAID’24] Gang Yan**, Hao Wang, Xu Yuan, Jian Li, "Enhancing Model Poisoning Attacks to Byzantine-Robust Federated Learning via Critical Learning Periods". Proceedings of the International Symposium on Research in Attacks, Intrusions and Defenses, Padua, Italy, September, 2024.
 
 - **[ACM SIGKDD’24] Gang Yan**, Hao Wang, Xu Yuan, Jian Li, "FedRoLA: Robust Federated Learning Against Model Poisoning via Layer-based Aggregation". Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Barcelona, Spain, August, 2024.
 

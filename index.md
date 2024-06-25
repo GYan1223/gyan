@@ -13,6 +13,7 @@ I am presently serving as a postdoc scholar in the **Department of Computer Scie
 High-Performance Network Optimization, Cloud and Edge Computing, Distributed Machine Learning and Federated Learning, Attack and Defense in Distributed Systems. Skill at C++, Python, R, Java, AWS, ATS and SQL.
 
 ## News and Updates
+- **06/2024:[Paper]** Our paper "Enhancing Model Poisoning Attacks to Byzantine-Robust Federated Learning via Critical Learning Periods" accepted to **ACM RAID 2024**
 - **05/2024:[Paper]** Our paper "FedRoLA: Robust Federated Learning Against Model Poisoning via Layer-based Aggregation" accepted to **ACM KDD 2024** (acceptance rate: 20%).
 - **03/2024:[Service]** I will server as a Reviewer for **IEEE Transactions on Knowledge and Data Engineering**.
 - **03/2024:[Service]** I will server as a Reviewer for **IEEE Transactions on Information Forensics & Security**.

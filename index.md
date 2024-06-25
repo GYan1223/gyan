@@ -14,11 +14,10 @@ High-Performance Network Optimization, Cloud and Edge Computing, Distributed Mac
 
 ## News and Updates
 - **06/2024:[Paper]** Our paper "Enhancing Model Poisoning Attacks to Byzantine-Robust Federated Learning via Critical Learning Periods" accepted to **ACM RAID 2024**
+- **06/2024:[Service]** I will serve as a Program Committee (PC) member for **AAAI 2025**.
 - **05/2024:[Paper]** Our paper "FedRoLA: Robust Federated Learning Against Model Poisoning via Layer-based Aggregation" accepted to **ACM KDD 2024** (acceptance rate: 20%).
 - **03/2024:[Service]** I will server as a Reviewer for **IEEE Transactions on Knowledge and Data Engineering**.
 - **03/2024:[Service]** I will server as a Reviewer for **IEEE Transactions on Information Forensics & Security**.
 - **02/2024:[Service]** I will serve as a ERC Program Committee member for **USENIX ATC 2024**.
 - **02/2024:[Service]** I will serve as a Program Committee member (PC) for **ACM KDD 2024**.
 - **12/2023:[Paper]** Our paper "DePRL: Achieving Linear Convergence Speedup in Personalized Decentralized Learning with Shared Representations" accepted to **AAAI 2024** (acceptance rate: 23.75%). 
-- **07/2023:[Service]** I will serve as a Program Committee member (PC) for **AAAI 2024**.
-- **06/2023:[Internship]** Have been offered an internship opportunity at **AT&T Labs**.

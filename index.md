@@ -14,7 +14,7 @@ High-Performance Network Optimization, Cloud and Edge Computing, Distributed Mac
 
 ## News and Updates
 - **08/2024:[News]** Congratulations to my PhD advisor, [Prof. Jian Li](https://sites.google.com/stonybrook.edu/jianli), on receiving the prestigious NSF CAREER Award!
-- **08/2024:[Paper]** Our paper "Straggler-Resilient Decentralized Learning via Adaptive Asynchronous Update" accepted to **MobiHoc AIoT 2024**
+- **08/2024:[Paper]** Our paper "Straggler-Resilient Decentralized Learning via Adaptive Asynchronous Update" accepted to **MobiHoc 2024**
 - **06/2024:[Paper]** Our paper "Enhancing Model Poisoning Attacks to Byzantine-Robust Federated Learning via Critical Learning Periods" accepted to **RAID 2024**
 - **06/2024:[Service]** I will serve as a Program Committee (PC) member for **AAAI 2025**.
 - **05/2024:[Paper]** Our paper "FedRoLA: Robust Federated Learning Against Model Poisoning via Layer-based Aggregation" accepted to **ACM KDD 2024** (acceptance rate: 20%).
